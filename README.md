@@ -11,3 +11,4 @@ Professor: Ely Miranda da Silva
 ---
 
 **Atividade 01** - Requisições HTTP em TypeScript com Axios e Cheerio
+**Atividade 02** - Manipulação de DOM

@@ -1,0 +1,2 @@
+- textContent: retorna todos os nós de texto do conteúdo, mas sem tags e textos ocultos são inclusos
+- innerHTML: retorna todo o corpo HTML do conteúdo
